@@ -44,7 +44,7 @@ sections:
           - Gartenplanung- und Gestaltung
           - Verlegen von Rollrasen
           - Hecken pflanzen und schneiden
-          - Brand portfolio strategy
+          - Hecken und Sträucher entfernen
           - Design strategy
           - Digital and experience strategy
           - Communication strategy
