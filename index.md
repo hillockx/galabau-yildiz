@@ -65,10 +65,6 @@ sections:
           - Terassenbau
           - Reinigung von Dach- und Regenrinnen
           - Baggerarbeiten
-          - Art direction
-          - Communication design
-          - Social media
-          - Product design
   - type: cta_section
     section_id: cta
     title: Let’s Work Together!
