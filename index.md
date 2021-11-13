@@ -52,7 +52,7 @@ sections:
           - Pflasterung von Flächen und Wegen
           - Rasenkantensteine setzen
           - Mauer aller Arten verlegen
-          - Design systems
+          - - Feinsteinzeugplatten verlegen 
           - Concept development
           - Brand implementation and management
           - Typography
