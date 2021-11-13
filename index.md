@@ -38,7 +38,7 @@ sections:
     subtitle: Was wir für Sie tun können.
     col_number: three
     grid_items:
-      - title: Business design
+      - title: Gartengestaltung
         image: images/service-1.svg
         content: |-
           - Research and insight
