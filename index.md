@@ -45,7 +45,7 @@ sections:
           - Verlegen von Rollrasen
           - Hecken pflanzen und schneiden
           - Hecken und Sträucher entfernen
-          - Design strategy
+          - Gartenabfälle abtransportieren und entsorgen
           - Digital and experience strategy
           - Communication strategy
       - title: Landschaftsbau
