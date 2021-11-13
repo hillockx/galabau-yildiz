@@ -76,8 +76,7 @@ sections:
 seo:
   title: Award Winning Agency Based in San Francisco
   description: >-
-    We are a brand and design practice. We work closely with you, your team to
-    deliver inspiring work, which enables your organization to grow.
+    Leidenschaft für Gärten und Landschaften sind unser Markenzeichen. Und deshalb sind unsere Ansprüche mindestens genau so hoch wie Ihre.
   extra:
     - name: 'og:type'
       value: website
