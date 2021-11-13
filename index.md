@@ -59,7 +59,7 @@ sections:
       - title: Sonstige Arbeiten
         image: images/service-3.svg
         content: |-
-          - Zaunaufbau aller Art
+          - Zaunmontage aller Art
           - Terassenbau
           - Reinigung von Dach- und Regenrinnen
           - Baggerarbeiten
