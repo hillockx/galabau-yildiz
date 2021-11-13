@@ -51,7 +51,7 @@ sections:
         content: |-
           - Pflasterung von Flächen und Wegen
           - Rasenkantensteine setzen
-          - Brand identity
+          - Natursteinmauer, Mauer aller Arten 
           - Design systems
           - Concept development
           - Brand implementation and management
