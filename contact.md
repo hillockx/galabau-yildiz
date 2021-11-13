@@ -47,7 +47,8 @@ sections:
         options:
           - Garten-Umgestaltung
           - Garten-Neuanlage
-          - Digital
+          - Garten-Pflege
+          - Sonstiges
       - input_type: textarea
         name: message
         label: Nachricht
