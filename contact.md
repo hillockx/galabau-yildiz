@@ -45,7 +45,7 @@ sections:
         label: Ich interessiere mich für
         default_value: Bitte auswählen
         options:
-          - Branding
+          - Gartenumgestaltung
           - Design
           - Digital
       - input_type: textarea
