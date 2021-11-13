@@ -54,9 +54,6 @@ sections:
           - Mauer aller Arten verlegen
           - Feinsteinzeugplatten verlegen 
           - Terassenbau
-
-          - Brand implementation and management
-          - Typography
       - title: Sonstige Arbeiten
         image: images/service-3.svg
         content: |-
