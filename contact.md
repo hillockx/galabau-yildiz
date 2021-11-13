@@ -25,7 +25,7 @@ sections:
 
       0173 8387496 <br>
 
-      [Get directions &rarr;](https://goo.gl/maps/eh6fn7JjMS4vYs337)
+      [Anfahrtsbeschreibung](https://goo.gl/maps/eh6fn7JjMS4vYs337)
 
 
       ### New York
