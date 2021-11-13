@@ -61,7 +61,7 @@ sections:
       - title: Sonstige Arbeiten
         image: images/service-3.svg
         content: |-
-          - Digital product design
+          - Zaunaufbau aller Art
           - Service design
           - Environmental and retail design
           - Packaging design
