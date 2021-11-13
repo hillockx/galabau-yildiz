@@ -5,7 +5,7 @@ sections:
   - type: form_section
     section_id: contact-form
     content: >-
-      Gemeinsam gestalten wir Ihren <br>
+      Gemeinsam gestalten wir Ihren Garten um.<br>
 
       Complete our contact form or send us an email at
       [email@example.com](mailto:email@example.com).
