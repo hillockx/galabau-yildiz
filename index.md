@@ -43,7 +43,7 @@ sections:
         content: |-
           - Gartenplanung- und Gestaltung
           - Verlegen von Rollrasen
-          - Brand and strategy
+          - Hecken pflanzen und schneiden
           - Brand portfolio strategy
           - Design strategy
           - Digital and experience strategy
