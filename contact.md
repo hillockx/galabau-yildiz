@@ -25,7 +25,7 @@ sections:
 
       0173 8387496 <br>
 
-      [Anfahrt &rarr;](https://goo.gl/maps/eh6fn7JjMS4vYs337)
+      [Anfahrt &rarr;](https://goo.gl/maps/snqCm9pToE4endDK8)
 
     form_id: contactForm
     form_action: /thank-you
