@@ -19,7 +19,7 @@ sections:
 
       ### Laichingen
 
-      1234 Some St.<br>
+      Weite Straße 162<br>
 
       San Francisco, CA 12345<br>
 
