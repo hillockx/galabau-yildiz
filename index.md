@@ -7,7 +7,7 @@ sections:
     title: >-
       Wir sind Ihr Garten- und Landbaugestalter für die Region Stuttgart.
     content: >-
-      Leidenschaft für Gärten und Landschaften sind unser Markenzeichen. Deshalb sind unsere  [Let's
+      Leidenschaft für Gärten und Landschaften sind unser Markenzeichen. Deshalb sind unsere Ansprüche genau so hoch wie Ihre. [Let's
       talk](/contact/).
   - type: portfolio_section
     section_id: latest-projects
