@@ -5,7 +5,7 @@ sections:
   - type: form_section
     section_id: contact-form
     content: >-
-      Let’s build something great together.<br>
+      Gemeinsam gestalten wir Ihren <br>
 
       Complete our contact form or send us an email at
       [email@example.com](mailto:email@example.com).
