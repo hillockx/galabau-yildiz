@@ -53,7 +53,7 @@ sections:
           - Rasenkantensteine setzen
           - Mauer aller Arten verlegen
           - Feinsteinzeugplatten verlegen 
-          -           - Terassenbau
+          - Terassenbau
 
           - Brand implementation and management
           - Typography
