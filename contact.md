@@ -23,7 +23,7 @@ sections:
 
       89150 Laichingen<br>
 
-      0173/8387496 <br>
+      0173-8387496 <br>
 
       [Anfahrt &rarr;](https://goo.gl/maps/eh6fn7JjMS4vYs337)
 
