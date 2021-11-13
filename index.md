@@ -46,8 +46,6 @@ sections:
           - Hecken pflanzen und schneiden
           - Hecken und Sträucher entfernen
           - Gartenabfälle abtransportieren und entsorgen
-          - Digital and experience strategy
-          - Communication strategy
       - title: Landschaftsbau
         image: images/service-2.svg
         content: |-
