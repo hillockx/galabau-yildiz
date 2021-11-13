@@ -42,7 +42,7 @@ sections:
         is_required: true
       - input_type: select
         name: subject
-        label: What services are you looking for?
+        label: Für welche Dienstleistungen interessieren Sie sich?
         default_value: Bitte auswählen
         options:
           - Branding
