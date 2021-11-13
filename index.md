@@ -14,7 +14,7 @@ sections:
     section_id: latest-projects
     layout_style: tiles
     title: Unsere Arbeit
-    subtitle: Entdecken Sie unsere bisherige 
+    subtitle: Entdecken Sie unsere bisherigen Projekte.
     projects_number: 6
     view_all_label: View All
     view_all_url: portfolio
