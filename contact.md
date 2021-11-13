@@ -21,7 +21,7 @@ sections:
 
       Weite Straße 162<br>
 
-      San Francisco, CA 12345<br>
+      89150 Laichingen<br>
 
       1-234-556-7890<br>
 
