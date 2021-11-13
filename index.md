@@ -49,7 +49,7 @@ sections:
       - title: Landschaftsbau
         image: images/service-2.svg
         content: |-
-          - Brand development
+          - Pflasterung von Flächen und Wegen
           - Naming
           - Brand identity
           - Design systems
