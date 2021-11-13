@@ -62,7 +62,7 @@ sections:
         image: images/service-3.svg
         content: |-
           - Zaunaufbau aller Art
-          - Service design
+          - Terassenbau
           - Environmental and retail design
           - Packaging design
           - Art direction
