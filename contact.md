@@ -17,7 +17,7 @@ sections:
       ## Unser Standort
 
 
-      ### San Francisco
+      ### Laichingen
 
       1234 Some St.<br>
 
