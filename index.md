@@ -60,7 +60,6 @@ sections:
         image: images/service-3.svg
         content: |-
           - Zaunmontage aller Art
-          - Terassenbau
           - Reinigung von Dach- und Regenrinnen
           - Baggerarbeiten
           - sonstige Arbeiten im Innen- und Außenbereich
