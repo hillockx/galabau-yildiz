@@ -51,7 +51,7 @@ sections:
         content: |-
           - Pflasterung von Flächen und Wegen
           - Rasenkantensteine setzen
-          - Natursteinmauer, Mauer aller Arten 
+          - Mauer aller Arten verlegen
           - Design systems
           - Concept development
           - Brand implementation and management
