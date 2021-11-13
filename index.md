@@ -42,7 +42,7 @@ sections:
         image: images/service-1.svg
         content: |-
           - Gartenplanung- und Gestaltung
-          - Business innovation and transformation
+          - Verlegen von Rollrasen
           - Brand and strategy
           - Brand portfolio strategy
           - Design strategy
