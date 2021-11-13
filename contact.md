@@ -46,7 +46,7 @@ sections:
         default_value: Bitte auswählen
         options:
           - Garten-Umgestaltung
-          - Design
+          - Garten-Neuanlage
           - Digital
       - input_type: textarea
         name: message
