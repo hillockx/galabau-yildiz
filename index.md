@@ -41,7 +41,7 @@ sections:
       - title: Gartengestaltung
         image: images/service-1.svg
         content: |-
-          - Research and insight
+          - Gartenplanung- und Gestaltung
           - Business innovation and transformation
           - Brand and strategy
           - Brand portfolio strategy
