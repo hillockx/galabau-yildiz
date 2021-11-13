@@ -7,7 +7,7 @@ sections:
     content: >-
       Gemeinsam gestalten wir Ihren Garten um.<br>
 
-      Füllen Sie das Kontaktformular aus oder schreiben Sie uns 
+      Füllen Sie das Kontaktformular aus oder schreiben Sie uns über
       [email@example.com](mailto:email@example.com).
 
 
