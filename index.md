@@ -50,7 +50,7 @@ sections:
         image: images/service-2.svg
         content: |-
           - Pflasterung von Flächen und Wegen
-          - Naming
+          - Rasenkantensteine setzen
           - Brand identity
           - Design systems
           - Concept development
