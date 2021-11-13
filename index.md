@@ -75,7 +75,7 @@ sections:
     section_id: cta
     title: Let’s Work Together!
     content: >-
-      Schreiben Sie uns auf [email@example.com](mailto:email@example.com) or tell us more
+      Schreiben Sie uns auf [info@yildiz-gartenbau.de](mailto:email@example.com) or tell us more
       about your project by getting started below.
     actions:
       - label: Let's start
