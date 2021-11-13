@@ -20,11 +20,6 @@
                 "style": "link"
             },
             {
-                "label": "Journal",
-                "url": "/blog/",
-                "style": "link"
-            },
-            {
                 "label": "Über uns",
                 "url": "/about/",
                 "style": "link"
