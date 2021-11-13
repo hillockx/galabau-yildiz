@@ -7,7 +7,7 @@ sections:
     title: >-
       Wir sind Ihr Garten- und Landbaugestalter für die Region Stuttgart.
     content: >-
-      Leidenschaft  [Let's
+      Leidenschaft für Gärten und Landschaften [Let's
       talk](/contact/).
   - type: portfolio_section
     section_id: latest-projects
