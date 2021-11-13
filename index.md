@@ -36,7 +36,7 @@ sections:
         image_alt: Logo 5
   - type: grid_section
     section_id: services
-    title: Services
+    title: Dienstleistungen
     subtitle: Was wir für Sie tun können.
     col_number: three
     grid_items:
