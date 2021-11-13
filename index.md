@@ -14,7 +14,7 @@ sections:
     title: Unser Portfolio
     subtitle: Entdecken Sie unsere bisherigen Projekte.
     projects_number: 6
-    view_all_label: View All
+    view_all_label: Alles anzeigen
     view_all_url: portfolio
   - type: grid_section
     section_id: clients
