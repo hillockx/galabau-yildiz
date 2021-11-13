@@ -30,7 +30,7 @@ sections:
     form_id: contactForm
     form_action: /thank-you
     form_fields:
-      - input_type: Name
+      - input_type: text
         name: name
         label: Name
         default_value: Your name
