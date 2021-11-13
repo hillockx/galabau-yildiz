@@ -77,7 +77,7 @@ sections:
     content: >-
       Schreiben Sie uns auf [info@yildiz-gartenbau.de](mailto:info@yildiz-gartenbau.d) oder erzählen Sie uns mehr über Ihr Projekt unten:
     actions:
-      - label: Let's start
+      - label: Kontakt
         url: /contact
         style: button
     image: images/cta.svg
