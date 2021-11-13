@@ -43,7 +43,7 @@ sections:
       - input_type: select
         name: subject
         label: What services are you looking for?
-        default_value: Please select
+        default_value: Bitte auswählen
         options:
           - Branding
           - Design
