@@ -65,6 +65,7 @@ sections:
           - Terassenbau
           - Reinigung von Dach- und Regenrinnen
           - Baggerarbeiten
+          - sonstige Arbeiten im Innen- und Außenbereich
   - type: cta_section
     section_id: cta
     title: Let’s Work Together!
