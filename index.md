@@ -64,7 +64,7 @@ sections:
           - Zaunaufbau aller Art
           - Terassenbau
           - Reinigung von Dach- und Regenrinnen
-          - Packaging design
+          - Baggerarbeiten
           - Art direction
           - Communication design
           - Social media
