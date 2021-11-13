@@ -5,7 +5,7 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      Wir sind Ihr Garten- und Landbaugestalter für die Region Stuttgart.
+      Ihr Garten- und Landbaugestalter für die Region Stuttgart.
     content: >-
       Leidenschaft für Gärten und Landschaften sind unser Markenzeichen. Deshalb sind unsere Ansprüche genau so hoch wie Ihre. [Let's
       talk](/contact/).
