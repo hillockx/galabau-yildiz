@@ -42,7 +42,7 @@ sections:
         image: images/service-1.svg
         content: |-
           - Gartenplanung- und Gestaltung
-          - Verlegen von Rollrasen
+          - Rasenflächen erneuern, Rollrasen legen
           - Hecken pflanzen und schneiden
           - Hecken und Sträucher entfernen
           - Gartenabfälle abtransportieren und entsorgen
