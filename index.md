@@ -63,7 +63,7 @@ sections:
         content: |-
           - Zaunaufbau aller Art
           - Terassenbau
-          - Environmental and retail design
+          - Reinigung von Dach- und Regenrinnen
           - Packaging design
           - Art direction
           - Communication design
