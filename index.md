@@ -52,7 +52,7 @@ sections:
           - Pflasterung von Flächen und Wegen
           - Rasenkantensteine setzen
           - Mauer aller Arten verlegen
-          - Feinsteinzeugplatten verlegen 
+          - Feinsteinzeug- und Natursteinplatten verlegen 
           - Terassenbau
       - title: Sonstige Arbeiten
         image: images/service-3.svg
