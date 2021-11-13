@@ -53,7 +53,8 @@ sections:
           - Rasenkantensteine setzen
           - Mauer aller Arten verlegen
           - Feinsteinzeugplatten verlegen 
-          - Concept development
+          -           - Terassenbau
+
           - Brand implementation and management
           - Typography
       - title: Sonstige Arbeiten
