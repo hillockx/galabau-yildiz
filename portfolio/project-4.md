@@ -1,6 +1,6 @@
 ---
 title: Rasenflächen
-subtitle: Editorial Design
+subtitle: Erneuerung 
 date: '2020-05-10'
 thumb_image: images/Startseite/S_Rasenflaechen.jpeg
 thumb_image_alt: Nature Mockup Magazine preview
