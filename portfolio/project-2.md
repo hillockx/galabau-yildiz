@@ -2,7 +2,7 @@
 title: Aimi
 subtitle: Brand Development
 date: '2020-03-10'
-thumb_image: images/Startseite/S_Gartenplanung.jpeg
+thumb_image: images/Startseite/S_Hecken.jpeg
 thumb_image_alt: Aimi preview
 sections:
   - type: image_section
