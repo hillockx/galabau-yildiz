@@ -1,5 +1,5 @@
 ---
-title: Nature Mockup Magazine
+title: Rasenflächen
 subtitle: Editorial Design
 date: '2020-05-10'
 thumb_image: images/Startseite/S_Rasenflaechen.jpeg
