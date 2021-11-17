@@ -1,6 +1,6 @@
 ---
 title: Terassenbau
-subtitle: Editorial Design
+subtitle: aus verschiedenen Materialien
 date: '2020-04-10'
 thumb_image: images/Startseite/S_Terassen.jpeg
 thumb_image_alt: The Book preview
