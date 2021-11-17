@@ -1,5 +1,5 @@
 ---
-title: Aimi
+title: Pflasterung von Flächen und Wegen
 subtitle: Brand Development
 date: '2020-03-10'
 thumb_image: images/Startseite/S_Pflasterung Mauern.jpeg
