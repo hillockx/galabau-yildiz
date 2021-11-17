@@ -1,5 +1,5 @@
 ---
-title: Rasenflächen
+title: Zaunbau 
 subtitle: Erneuerung von Rollrasen
 date: '2020-05-10'
 thumb_image: images/Startseite/S_zaunbau.jpeg
