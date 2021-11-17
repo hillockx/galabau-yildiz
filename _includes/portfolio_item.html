@@ -1,6 +1,5 @@
 {% assign project = include.project_page %}
 <article class="cell project-card">
- {% comment %} <a href="{{ project.url | relative_url }}" class="project-card__link">{% comment %}
     {% assign thumb_image_is_not_empty = project.thumb_image | is_not_empty %}
     {% if thumb_image_is_not_empty %}
     <div class="project-card__image">
@@ -16,5 +15,4 @@
       </div>
       {% endif %}
     </header>
-{% comment %}  </a>{% comment %}
 </article>
