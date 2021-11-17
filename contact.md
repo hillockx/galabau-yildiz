@@ -1,6 +1,6 @@
 ---
 title: Kontakt
-hide_title: true
+hide_title: false
 sections:
   - type: form_section
     section_id: contact-form
