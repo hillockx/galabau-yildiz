@@ -16,7 +16,6 @@ sections:
     projects_number: 6
     view_all_label: Alles anzeigen
     view_all_url: portfolio
-
   - type: grid_section
     section_id: services
     title: Dienstleistungen
