@@ -2,7 +2,7 @@
 title: Rasenflächen
 subtitle: Erneuerung von Rollrasen
 date: '2020-05-10'
-thumb_image: images/Startseite/S_Rasenflaechen.jpeg
+thumb_image: images/Startseite/S_zaunbau.jpeg
 thumb_image_alt: Nature Mockup Magazine preview
 sections:
   - type: image_section
