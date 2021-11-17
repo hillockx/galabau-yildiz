@@ -1,5 +1,5 @@
 ---
-title: Pflasterung
+title: Heckenpflanzung
 subtitle: von Flächen und Wegen
 date: '2020-03-10'
 thumb_image: images/Startseite/S_Hecke.jpeg
