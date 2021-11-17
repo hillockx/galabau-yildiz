@@ -2,7 +2,7 @@
 title: Subtle
 subtitle: Brand Development
 date: '2021-02-06'
-thumb_image: images/Startseite/S_Hecken.jpeg
+thumb_image: images/Startseite/S_Hecke.jpeg
 thumb_image_alt: Subtle preview
 sections:
   - type: image_section
