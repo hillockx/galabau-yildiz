@@ -1,5 +1,5 @@
 ---
-title: Nature Magazine
+title: Rasenflächen
 subtitle: Editorial Design
 date: '2021-01-10'
 thumb_image: images/Startseite/S_Rasenflaechen.jpeg
