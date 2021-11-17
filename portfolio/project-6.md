@@ -1,6 +1,6 @@
 ---
 title: Pflasterung
-subtitle: Brand Development
+subtitle: von Flächen und Wegen
 date: '2021-02-06'
 thumb_image: images/Startseite/S_Pflasterung Mauern.jpeg
 thumb_image_alt: Subtle preview
