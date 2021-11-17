@@ -1,5 +1,5 @@
 ---
-title: The Book
+title: Terassenbau
 subtitle: Editorial Design
 date: '2020-04-10'
 thumb_image: images/Startseite/S_Terassen.jpeg
