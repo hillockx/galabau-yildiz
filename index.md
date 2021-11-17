@@ -23,7 +23,7 @@ sections:
     col_number: three
     grid_items:
       - title: Gartengestaltung
-        image: images/Startseite/S_Gartenplanung.jpeg
+        image: images/service-1.svg
         content: |-
           - Gartenplanung- und Gestaltung
           - Rasenflächen erneuern, Rollrasen legen
