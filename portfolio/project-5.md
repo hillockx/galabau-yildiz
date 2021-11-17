@@ -1,6 +1,6 @@
 ---
 title: Rasenflächen
-subtitle: Editorial Design
+subtitle: Erneuerung von Rollrasen
 date: '2021-01-10'
 thumb_image: images/Startseite/S_Rasenflaechen.jpeg
 thumb_image_alt: Nature Magazine preview
