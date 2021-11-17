@@ -1,6 +1,6 @@
 ---
 title: Zaunbau 
-subtitle: Erneuerung von Rollrasen
+subtitle: aller Art
 date: '2020-05-10'
 thumb_image: images/Startseite/S_zaunbau.jpeg
 thumb_image_alt: Nature Mockup Magazine preview
