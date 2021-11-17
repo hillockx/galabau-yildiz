@@ -1,6 +1,6 @@
 ---
 title: Heckenpflanzung
-subtitle: von Flächen und Wegen
+subtitle: Sträucher und Hecken
 date: '2020-03-10'
 thumb_image: images/Startseite/S_Hecke.jpeg
 thumb_image_alt: Aimi preview
