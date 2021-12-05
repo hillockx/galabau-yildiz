@@ -61,7 +61,7 @@ sections:
     title: Werde Teil unseres Teams
     content: >-
       Wir suchen ständig nach engagierten Leuten, die für den Garten- und Landbau brennen.
-      interested in working for Agency, please send an email to
+      Falls Sie an einer Stelle interessiert sind, dann senden Sie gerne eine Nachricht an
       [email@example.com](mailto:email@example.com) with your CV and which
       position you are interested in.
     image: images/cta-about.svg
