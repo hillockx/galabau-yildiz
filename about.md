@@ -13,7 +13,6 @@ sections:
   - type: grid_section
     section_id: team
     title: Unser Team
-    subtitle: An optional subtitle of the section
     col_number: three
     grid_items:
       - title: Gustav Purpleson
