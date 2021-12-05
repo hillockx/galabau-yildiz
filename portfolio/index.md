@@ -1,6 +1,6 @@
 ---
 title: Portfolio
-subtitle: This is an optional subtitle for the portfolio page
+subtitle: Welche Dienstleitungen wir Ihnen anbieten können
 layout_style: mosaic
 seo:
   title: Portfolio
