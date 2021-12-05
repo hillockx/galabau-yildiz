@@ -17,7 +17,7 @@ sections:
     grid_items:
       - title: Ali Yildiz
         image: images/team-1.png
-        subtitle: 'Co-Founder, Creative Director'
+        subtitle: 'Unternehmensgründer'
         content: >-
           Pretium aenean pharetra magna ac placerat vestibulum. Imperdiet sed
           euismod nisi porta lorem mollis.
