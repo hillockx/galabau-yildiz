@@ -60,7 +60,7 @@ sections:
     section_id: cta
     title: Werde Teil unseres Teams
     content: >-
-      Wir suchen ständig nach engagierten Leuten, die für die Garten- und Landba
+      Wir suchen ständig nach engagierten Leuten, die für den Garten- und Landbau brennen.
       interested in working for Agency, please send an email to
       [email@example.com](mailto:email@example.com) with your CV and which
       position you are interested in.
