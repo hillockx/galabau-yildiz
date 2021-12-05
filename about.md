@@ -15,7 +15,7 @@ sections:
     title: Unser Team
     col_number: three
     grid_items:
-      - title: Gustav Purpleson
+      - title: Ali Yildiz
         image: images/team-1.png
         subtitle: 'Co-Founder, Creative Director'
         content: >-
