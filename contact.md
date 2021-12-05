@@ -59,7 +59,7 @@ sections:
           werden, um meine Anfrage zu verarbeiten.*
     submit_label: Nachricht senden.
 seo:
-  title: Contact
+  title: Kontakt
   description: This is the contact page
   extra:
     - name: 'og:type'
