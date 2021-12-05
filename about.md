@@ -60,7 +60,7 @@ sections:
     section_id: cta
     title: Werde Teil unseres Teams
     content: >-
-      We are always looking for great people to join our team. If you are
+      Wir suchen ständig nach 
       interested in working for Agency, please send an email to
       [email@example.com](mailto:email@example.com) with your CV and which
       position you are interested in.
