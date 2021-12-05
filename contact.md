@@ -60,7 +60,7 @@ sections:
     submit_label: Nachricht senden.
 seo:
   title: Kontakt
-  description: This is the contact page
+  description: Wie Sie uns erreichen können.
   extra:
     - name: 'og:type'
       value: website
