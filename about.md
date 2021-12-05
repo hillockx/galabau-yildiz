@@ -3,15 +3,11 @@ title: Über uns
 hide_title: false
 sections:
   - type: content_section
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel
-      venenatis augue. Suspendisse tincidunt, nibh eget sodales eleifend, lectus
-      magna elementum lorem, ut bibendum tellus turpis quis risus. Vivamus
-      sagittis enim est, et semper lectus hendrerit ut.
-
-
-      In sollicitudin imperdiet turpis quis accumsan. Pellentesque euismod
-      turpis et nisi fermentum accumsan.
+    content: >
+      Wir sind ein kleines mittelständisches Unternehmen, welches sich
+      leidenschaftlich dem Garten- und Landschaftsbau widmet. Vom Firmensitz in
+      Laichingen aus arbeiten wir vornehmlich für Kunden aus der Region
+      Stuttgart, insbesondere aus dem Kreis Esslingen. 
     image: images/about.jpg
     image_alt: Our team in the meeting room
   - type: grid_section
