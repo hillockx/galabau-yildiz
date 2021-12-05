@@ -8,7 +8,7 @@ sections:
       leidenschaftlich dem Garten- und Landschaftsbau widmet. Vom Firmensitz in
       Laichingen aus arbeiten wir vornehmlich für Kunden aus der Region
       Stuttgart, insbesondere aus dem Kreis Esslingen. 
-    image: images/about.jpg
+    image: images/about-us.jpeg
     image_alt: Our team in the meeting room
   - type: grid_section
     section_id: team
