@@ -4,7 +4,7 @@ subtitle: Welche Dienstleitungen wir Ihnen anbieten können
 layout_style: mosaic
 seo:
   title: Portfolio
-  description: This is the portfolio page
+  description: Welche Dienstleitungen wir Ihnen anbieten können
   extra:
     - name: 'og:type'
       value: website
