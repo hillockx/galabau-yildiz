@@ -13,7 +13,7 @@ seo:
       value: Portfolio
       keyName: property
     - name: 'og:description'
-      value: This is the portfolio page
+      value: Welche Dienstleitungen wir Ihnen anbieten können
       keyName: property
     - name: 'og:image'
       value: images/work-book-1.jpg
