@@ -16,7 +16,7 @@ sections:
     col_number: three
     grid_items:
       - title: Ali Yildiz
-        image: images/team-1.png
+        image: images/about-us.jpeg
         subtitle: 'Unternehmensgründer'
         content: >-
           Pretium aenean pharetra magna ac placerat vestibulum. Imperdiet sed
