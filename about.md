@@ -62,7 +62,7 @@ sections:
     content: >-
       Wir suchen ständig nach engagierten Leuten, die für den Garten- und Landbau brennen.
       Falls Sie an einer Stelle interessiert sind, dann senden Sie gerne eine Nachricht an
-      [info@yildiz-gartenbau.de](mailto:email@example.com) with your CV and which
+      [info@yildiz-gartenbau.de](mailto:info@yildiz-gartenbau.de) with your CV and which
       position you are interested in.
     image: images/cta-about.svg
     image_alt: Illustration
