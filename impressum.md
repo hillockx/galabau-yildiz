@@ -154,7 +154,8 @@ Im Falle von Verstößen gegen die DSGVO steht den Betroffenen ein Beschwerderec
 Aufsichtsbehörde, insbesondere in dem Mitgliedstaat ihres gewöhnlichen Aufenthalts, ihres Arbeitsplatzes
 oder des Orts des mutmaßlichen Verstoßes zu. Das Beschwerderecht besteht unbeschadet anderweitiger
 verwaltungsrechtlicher oder gerichtlicher Rechtsbehelfe.
-Recht auf Datenübertragbarkeit
+
+#### Recht auf Datenübertragbarkeit
 Sie haben das Recht, Daten, die wir auf Grundlage Ihrer Einwilligung oder in Erfüllung eines Vertrags
 automatisiert verarbeiten, an sich oder an einen Dritten in einem gängigen, maschinenlesbaren Format
 aushändigen zu lassen. Sofern Sie die direkte Übertragung der Daten an einen anderen Verantwortlichen
