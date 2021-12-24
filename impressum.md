@@ -72,7 +72,6 @@ entsprechende Einwilligung abgefragt wurde, erfolgt die Verarbeitung ausschließ
 Zugriff auf Informationen im Endgerät des Nutzers (z. B. Device-Fingerprinting) im Sinne des TTDSG
 umfasst. Die Einwilligung ist jederzeit widerrufbar
 
-
 3. Allgemeine Hinweise und Pflichtinformationen
 Datenschutz
 Die Betreiber dieser Seiten nehmen den Schutz Ihrer persönlichen Daten sehr ernst. Wir behandeln Ihre
