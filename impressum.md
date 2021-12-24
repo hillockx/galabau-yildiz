@@ -103,7 +103,7 @@ die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten (z. B. Namen,
 entscheidet.
 
 
-#####Speicherdauer
+##### Speicherdauer
 Soweit innerhalb dieser Datenschutzerklärung keine speziellere Speicherdauer genannt wurde, verbleiben
 Ihre personenbezogenen Daten bei uns, bis der Zweck für die Datenverarbeitung entfällt. Wenn Sie ein
 berechtigtes Löschersuchen geltend machen oder eine Einwilligung zur Datenverarbeitung widerrufen,
