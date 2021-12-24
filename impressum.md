@@ -58,3 +58,15 @@ bestimmten Umständen die Einschränkung der Verarbeitung Ihrer personenbezogene
 Des Weiteren steht Ihnen ein Beschwerderecht bei der zuständigen Aufsichtsbehörde zu.
 Hierzu sowie zu weiteren Fragen zum Thema Datenschutz können Sie sich jederzeit an uns wenden.
 
+2. Hosting
+IONOS
+Wir hosten unsere Website bei IONOS SE. Anbieter ist die IONOS SE, Elgendorfer Str. 57, 56410
+Montabaur (nachfolgend: IONOS). Wenn Sie unsere Website besuchen, erfasst IONOS verschiedene
+Logfiles inklusive Ihrer IP-Adressen. Details entnehmen Sie der Datenschutzerklärung von IONOS:
+https://www.ionos.de/terms-gtc/terms-privacy.
+Die Verwendung von IONOS erfolgt auf Grundlage von Art. 6 Abs. 1 lit. f DSGVO. Wir haben ein
+berechtigtes Interesse an einer möglichst zuverlässigen Darstellung unserer Website. Sofern eine
+entsprechende Einwilligung abgefragt wurde, erfolgt die Verarbeitung ausschließlich auf Grundlage von Art.
+6 Abs. 1 lit. a DSGVO und § 25 Abs. 1 TTDSG, soweit die Einwilligung die Speicherung von Cookies oder den
+Zugriff auf Informationen im Endgerät des Nutzers (z. B. Device-Fingerprinting) im Sinne des TTDSG
+umfasst. Die Einwilligung ist jederzeit widerrufbar
