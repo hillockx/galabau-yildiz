@@ -174,3 +174,20 @@ Sie haben im Rahmen der geltenden gesetzlichen Bestimmungen jederzeit das Recht 
 Auskunft über Ihre gespeicherten personenbezogenen Daten, deren Herkunft und Empfänger und den
 Zweck der Datenverarbeitung und ggf. ein Recht auf Berichtigung oder Löschung dieser Daten. Hierzu sowie
 zu weiteren Fragen zum Thema personenbezogene Daten können Sie sich jederzeit an uns wenden.
+
+
+Recht auf Einschränkung der Verarbeitung
+Sie haben das Recht, die Einschränkung der Verarbeitung Ihrer personenbezogenen Daten zu verlangen.
+Hierzu können Sie sich jederzeit an uns wenden. Das Recht auf Einschränkung der Verarbeitung besteht in
+folgenden Fällen:
+Wenn Sie die Richtigkeit Ihrer bei uns gespeicherten personenbezogenen Daten bestreiten, benötigen wir
+in der Regel Zeit, um dies zu überprüfen. Für die Dauer der Prüfung haben Sie das Recht, die
+Einschränkung der Verarbeitung Ihrer personenbezogenen Daten zu verlangen.
+Wenn die Verarbeitung Ihrer personenbezogenen Daten unrechtmäßig geschah/geschieht, können Sie
+statt der Löschung die Einschränkung der Datenverarbeitung verlangen.
+Wenn wir Ihre personenbezogenen Daten nicht mehr benötigen, Sie sie jedoch zur Ausübung,
+Verteidigung oder Geltendmachung von Rechtsansprüchen benötigen, haben Sie das Recht, statt der
+Löschung die Einschränkung der Verarbeitung Ihrer personenbezogenen Daten zu verlangen.
+Wenn Sie einen Widerspruch nach Art. 21 Abs. 1 DSGVO eingelegt haben, muss eine Abwägung zwischen
+Ihren und unseren Interessen vorgenommen werden. Solange noch nicht feststeht, wessen Interessen
+überwiegen, haben Sie das Recht, die Einschränkung der Verarbeitung Ihrer personenbezogenen Daten
