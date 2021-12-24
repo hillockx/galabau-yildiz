@@ -199,7 +199,7 @@ Verteidigung von Rechtsansprüchen oder zum Schutz der Rechte einer anderen nat�
 juristischen Person oder aus Gründen eines wichtigen öffentlichen Interesses der Europäischen Union oder
 eines Mitgliedstaats verarbeitet werden.
 
-. Datenerfassung auf dieser Website
+### Datenerfassung auf dieser Website
 Kontaktformular
 Wenn Sie uns per Kontaktformular Anfragen zukommen lassen, werden Ihre Angaben aus dem
 Anfrageformular inklusive der von Ihnen dort angegebenen Kontaktdaten zwecks Bearbeitung der Anfrage
