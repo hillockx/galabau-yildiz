@@ -10,7 +10,7 @@ seo:
 layout: page
 ---
 #### Angaben gemäß § 5 TMG
-Ali Yildiz
+Ali Yildiz\
 Weite Straße 162
 89150 Laichingen
 
