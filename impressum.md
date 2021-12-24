@@ -64,6 +64,7 @@ Wir hosten unsere Website bei IONOS SE. Anbieter ist die IONOS SE, Elgendorfer S
 Montabaur (nachfolgend: IONOS). Wenn Sie unsere Website besuchen, erfasst IONOS verschiedene
 Logfiles inklusive Ihrer IP-Adressen. Details entnehmen Sie der Datenschutzerklärung von IONOS:
 https://www.ionos.de/terms-gtc/terms-privacy.
+
 Die Verwendung von IONOS erfolgt auf Grundlage von Art. 6 Abs. 1 lit. f DSGVO. Wir haben ein
 berechtigtes Interesse an einer möglichst zuverlässigen Darstellung unserer Website. Sofern eine
 entsprechende Einwilligung abgefragt wurde, erfolgt die Verarbeitung ausschließlich auf Grundlage von Art.
