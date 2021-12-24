@@ -86,3 +86,10 @@ und zu welchem Zweck das geschieht.
 Wir weisen darauf hin, dass die Datenübertragung im Internet (z. B. bei der Kommunikation per E-Mail)
 Sicherheitslücken aufweisen kann. Ein lückenloser Schutz der Daten vor dem Zugriff durch Dritte ist nicht
 möglich
+
+Hinweis zur verantwortlichen Stelle
+Die verantwortliche Stelle für die Datenverarbeitung auf dieser Website ist:
+Garten- und Landschaftsbau Yildiz
+Ali Yildiz
+Weite Straße 162
+89150 Laichingen
