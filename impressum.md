@@ -193,3 +193,8 @@ Löschung die Einschränkung der Verarbeitung Ihrer personenbezogenen Daten zu v
 Ihren und unseren Interessen vorgenommen werden. Solange noch nicht feststeht, wessen Interessen
 überwiegen, haben Sie das Recht, die Einschränkung der Verarbeitung Ihrer personenbezogenen Daten zu verlangen.
 
+Wenn Sie die Verarbeitung Ihrer personenbezogenen Daten eingeschränkt haben, dürfen diese Daten – von
+ihrer Speicherung abgesehen – nur mit Ihrer Einwilligung oder zur Geltendmachung, Ausübung oder
+Verteidigung von Rechtsansprüchen oder zum Schutz der Rechte einer anderen natürlichen oder
+juristischen Person oder aus Gründen eines wichtigen öffentlichen Interesses der Europäischen Union oder
+eines Mitgliedstaats verarbeitet werden.
