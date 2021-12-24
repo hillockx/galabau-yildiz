@@ -90,7 +90,7 @@ möglich
 ### Hinweis zur verantwortlichen Stelle
 Die verantwortliche Stelle für die Datenverarbeitung auf dieser Website ist:
 
-Garten- und Landschaftsbau Yildiz
-Ali Yildiz
-Weite Straße 162
-89150 Laichingen
+Garten- und Landschaftsbau Yildiz  
+Ali Yildiz  
+Weite Straße 162  
+89150 Laichingen  
