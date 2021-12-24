@@ -191,4 +191,5 @@ Verteidigung oder Geltendmachung von Rechtsansprüchen benötigen, haben Sie das
 Löschung die Einschränkung der Verarbeitung Ihrer personenbezogenen Daten zu verlangen.
 - Wenn Sie einen Widerspruch nach Art. 21 Abs. 1 DSGVO eingelegt haben, muss eine Abwägung zwischen
 Ihren und unseren Interessen vorgenommen werden. Solange noch nicht feststeht, wessen Interessen
-überwiegen, haben Sie das Recht, die Einschränkung der Verarbeitung Ihrer personenbezogenen Daten
+überwiegen, haben Sie das Recht, die Einschränkung der Verarbeitung Ihrer personenbezogenen Daten zu verlangen.
+
