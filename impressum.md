@@ -59,7 +59,7 @@ Des Weiteren steht Ihnen ein Beschwerderecht bei der zuständigen Aufsichtsbehö
 Hierzu sowie zu weiteren Fragen zum Thema Datenschutz können Sie sich jederzeit an uns wenden.
 
 #### 2. Hosting
-IONOS
+##### IONOS
 Wir hosten unsere Website bei IONOS SE. Anbieter ist die IONOS SE, Elgendorfer Str. 57, 56410
 Montabaur (nachfolgend: IONOS). Wenn Sie unsere Website besuchen, erfasst IONOS verschiedene
 Logfiles inklusive Ihrer IP-Adressen. Details entnehmen Sie der Datenschutzerklärung von IONOS:
