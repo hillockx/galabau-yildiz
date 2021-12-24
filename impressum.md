@@ -176,7 +176,7 @@ Zweck der Datenverarbeitung und ggf. ein Recht auf Berichtigung oder Löschung d
 zu weiteren Fragen zum Thema personenbezogene Daten können Sie sich jederzeit an uns wenden.
 
 
-Recht auf Einschränkung der Verarbeitung
+#### Recht auf Einschränkung der Verarbeitung
 Sie haben das Recht, die Einschränkung der Verarbeitung Ihrer personenbezogenen Daten zu verlangen.
 Hierzu können Sie sich jederzeit an uns wenden. Das Recht auf Einschränkung der Verarbeitung besteht in
 folgenden Fällen:
