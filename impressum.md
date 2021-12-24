@@ -87,7 +87,7 @@ Wir weisen darauf hin, dass die Datenübertragung im Internet (z. B. bei der Kom
 Sicherheitslücken aufweisen kann. Ein lückenloser Schutz der Daten vor dem Zugriff durch Dritte ist nicht
 möglich
 
-### Hinweis zur verantwortlichen Stelle
+#### Hinweis zur verantwortlichen Stelle
 Die verantwortliche Stelle für die Datenverarbeitung auf dieser Website ist:
 
 Garten- und Landschaftsbau Yildiz  
