@@ -77,6 +77,7 @@ umfasst. Die Einwilligung ist jederzeit widerrufbar
 Die Betreiber dieser Seiten nehmen den Schutz Ihrer persönlichen Daten sehr ernst. Wir behandeln Ihre
 personenbezogenen Daten vertraulich und entsprechend den gesetzlichen Datenschutzvorschriften sowie
 dieser Datenschutzerklärung.
+
 Wenn Sie diese Website benutzen, werden verschiedene personenbezogene Daten erhoben.
 Personenbezogene Daten sind Daten, mit denen Sie persönlich identifiziert werden können. Die vorliegende
 Datenschutzerklärung erläutert, welche Daten wir erheben und wofür wir sie nutzen. Sie erläutert auch, wie
