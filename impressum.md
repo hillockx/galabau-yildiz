@@ -160,7 +160,7 @@ Sie haben das Recht, Daten, die wir auf Grundlage Ihrer Einwilligung oder in Erf
 automatisiert verarbeiten, an sich oder an einen Dritten in einem gängigen, maschinenlesbaren Format
 aushändigen zu lassen. Sofern Sie die direkte Übertragung der Daten an einen anderen Verantwortlichen
 verlangen, erfolgt dies nur, soweit es technisch machbar ist.
-SSL- bzw. TLS-Verschlüsselung
+#### SSL- bzw. TLS-Verschlüsselung
 Diese Seite nutzt aus Sicherheitsgründen und zum Schutz der Übertragung vertraulicher Inhalte, wie zum
 Beispiel Bestellungen oder Anfragen, die Sie an uns als Seitenbetreiber senden, eine SSL- bzw. TLS-
 Verschlüsselung. Eine verschlüsselte Verbindung erkennen Sie daran, dass die Adresszeile des Browsers von
