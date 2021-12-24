@@ -111,8 +111,7 @@ werden Ihre Daten gelöscht, sofern wir keine anderen rechtlich zulässigen Grü
 personenbezogenen Daten haben (z. B. steuer- oder handelsrechtliche Aufbewahrungsfristen); im
 letztgenannten Fall erfolgt die Löschung nach Fortfall dieser Gründe.
 
-##### Allgemeine Hinweise zu den Rechtsgrundlagen der Datenverarbeitung auf dieser
-Website
+##### Allgemeine Hinweise zu den Rechtsgrundlagen der Datenverarbeitung auf dieser Website
 Sofern Sie in die Datenverarbeitung eingewilligt haben, verarbeiten wir Ihre personenbezogenen Daten auf
 Grundlage von Art. 6 Abs. 1 lit. a DSGVO bzw. Art. 9 Abs. 2 lit. a DSGVO, sofern besondere Datenkategorien
 nach Art. 9 Abs. 1 DSGVO verarbeitet werden. Sofern Sie in die Speicherung von Cookies oder in den Zugriff
