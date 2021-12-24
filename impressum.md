@@ -38,7 +38,7 @@ Sie unserer unter diesem Text aufgeführten Datenschutzerklärung.
 Die Datenverarbeitung auf dieser Website erfolgt durch den Websitebetreiber. Dessen Kontaktdaten
 können Sie dem Abschnitt „Hinweis zur Verantwortlichen Stelle“ in dieser Datenschutzerklärung
 entnehmen.
-####### Wie erfassen wir Ihre Daten?
+###### Wie erfassen wir Ihre Daten?
 Ihre Daten werden zum einen dadurch erhoben, dass Sie uns diese mitteilen. Hierbei kann es sich z. B. um
 Daten handeln, die Sie in ein Kontaktformular eingeben.
 Andere Daten werden automatisch oder nach Ihrer Einwilligung beim Besuch der Website durch unsere IT-
