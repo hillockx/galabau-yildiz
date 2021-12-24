@@ -186,7 +186,7 @@ in der Regel Zeit, um dies zu überprüfen. Für die Dauer der Prüfung haben Si
 Einschränkung der Verarbeitung Ihrer personenbezogenen Daten zu verlangen.
 - Wenn die Verarbeitung Ihrer personenbezogenen Daten unrechtmäßig geschah/geschieht, können Sie
 statt der Löschung die Einschränkung der Datenverarbeitung verlangen.
--  Wenn wir Ihre personenbezogenen Daten nicht mehr benötigen, Sie sie jedoch zur Ausübung,
+- Wenn wir Ihre personenbezogenen Daten nicht mehr benötigen, Sie sie jedoch zur Ausübung,
 Verteidigung oder Geltendmachung von Rechtsansprüchen benötigen, haben Sie das Recht, statt der
 Löschung die Einschränkung der Verarbeitung Ihrer personenbezogenen Daten zu verlangen.
 - Wenn Sie einen Widerspruch nach Art. 21 Abs. 1 DSGVO eingelegt haben, muss eine Abwägung zwischen
