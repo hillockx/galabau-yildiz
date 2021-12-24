@@ -123,7 +123,8 @@ verarbeiten wir Ihre Daten, sofern diese zur Erfüllung einer rechtlichen Verpfl
 Grundlage von Art. 6 Abs. 1 lit. c DSGVO. Die Datenverarbeitung kann ferner auf Grundlage unseres
 berechtigten Interesses nach Art. 6 Abs. 1 lit. f DSGVO erfolgen. Über die jeweils im Einzelfall einschlägigen
 Rechtsgrundlagen wird in den folgenden Absätzen dieser Datenschutzerklärung informiert.
-Widerruf Ihrer Einwilligung zur Datenverarbeitung
+
+##### Widerruf Ihrer Einwilligung zur Datenverarbeitung
 Viele Datenverarbeitungsvorgänge sind nur mit Ihrer ausdrücklichen Einwilligung möglich. Sie können eine
 bereits erteilte Einwilligung jederzeit widerrufen. Die Rechtmäßigkeit der bis zum Widerruf erfolgten
 Datenverarbeitung bleibt vom Widerruf unberührt.
