@@ -95,8 +95,9 @@ Ali Yildiz
 Weite Straße 162  
 89150 Laichingen  
 
-Telefon: 0173 8387496
-E-Mail: info@yildiz-gartenbau.de
+Telefon: 0173 8387496  
+E-Mail: info@yildiz-gartenbau.de  
+
 Verantwortliche Stelle ist die natürliche oder juristische Person, die allein oder gemeinsam mit anderen über
 die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten (z. B. Namen, E-Mail-Adressen o. Ä.)
 entscheidet.
