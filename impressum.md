@@ -20,4 +20,5 @@ Telefon: 0173 8387496
 E-Mail: info@yildiz-gartenbau.de  
 
 #### Umsatzsteuer-ID
-
+Umsatzsteuer-Identifikationsnummer gemäß § 27 a Umsatzsteuergesetz:
+DE 27 4896987
