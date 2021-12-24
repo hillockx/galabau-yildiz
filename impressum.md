@@ -16,5 +16,8 @@ Weite Straße 162
 89150 Laichingen
 
 #### Kontakt
+Telefon: 0173 8387496
+E-Mail: info@yildiz-gartenbau.de
+
 
 
