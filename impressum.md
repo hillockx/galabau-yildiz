@@ -216,6 +216,7 @@ Die von Ihnen im Kontaktformular eingegebenen Daten verbleiben bei uns, bis Sie 
 auffordern, Ihre Einwilligung zur Speicherung widerrufen oder der Zweck für die Datenspeicherung entfällt
 (z. B. nach abgeschlossener Bearbeitung Ihrer Anfrage). Zwingende gesetzliche Bestimmungen –
 insbesondere Aufbewahrungsfristen – bleiben unberührt.
+
 Anfrage per E-Mail, Telefon oder Telefax
 Wenn Sie uns per E-Mail, Telefon oder Telefax kontaktieren, wird Ihre Anfrage inklusive aller daraus
 hervorgehenden personenbezogenen Daten (Name, Anfrage) zum Zwecke der Bearbeitung Ihres Anliegens
