@@ -167,7 +167,7 @@ Verschlüsselung. Eine verschlüsselte Verbindung erkennen Sie daran, dass die A
 „http://“ auf „https://“ wechselt und an dem Schloss-Symbol in Ihrer Browserzeile.
 Wenn die SSL- bzw. TLS-Verschlüsselung aktiviert ist, können die Daten, die Sie an uns übermitteln, nicht
 von Dritten mitgelesen werden.
-Auskunft, Löschung und Berichtigung
+#### Auskunft, Löschung und Berichtigung
 Sie haben im Rahmen der geltenden gesetzlichen Bestimmungen jederzeit das Recht auf unentgeltliche
 Auskunft über Ihre gespeicherten personenbezogenen Daten, deren Herkunft und Empfänger und den
 Zweck der Datenverarbeitung und ggf. ein Recht auf Berichtigung oder Löschung dieser Daten. Hierzu sowie
