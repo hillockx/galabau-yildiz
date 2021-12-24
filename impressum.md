@@ -34,7 +34,7 @@ persönlich identifiziert werden können. Ausführliche Informationen zum Thema 
 Sie unserer unter diesem Text aufgeführten Datenschutzerklärung.
 
 ##### Datenerfassung auf dieser Website
-Wer ist verantwortlich für die Datenerfassung auf dieser Website?
+###### Wer ist verantwortlich für die Datenerfassung auf dieser Website?
 Die Datenverarbeitung auf dieser Website erfolgt durch den Websitebetreiber. Dessen Kontaktdaten
 können Sie dem Abschnitt „Hinweis zur Verantwortlichen Stelle“ in dieser Datenschutzerklärung
 entnehmen.
