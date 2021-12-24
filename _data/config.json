@@ -25,10 +25,16 @@
                 "style": "link"
             },
             {
+                "label": "Impressum",
+                "url": "/impressum/",
+                "style": "link"
+            },
+            {
                 "label": "Kontakt",
                 "url": "/contact/",
                 "style": "button"
             }
+            
         ]
     },
     "footer": {
