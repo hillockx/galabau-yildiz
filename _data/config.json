@@ -29,11 +29,7 @@
                 "url": "/contact/",
                 "style": "button"
             },
-           {
-                "label": "Über uns",
-                "url": "/about/",
-                "style": "link"
-            }
+            
         ]
     },
     "footer": {
