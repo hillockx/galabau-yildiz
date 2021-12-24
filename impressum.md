@@ -233,4 +233,4 @@ auffordern, Ihre Einwilligung zur Speicherung widerrufen oder der Zweck für die
 (z. B. nach abgeschlossener Bearbeitung Ihres Anliegens). Zwingende gesetzliche Bestimmungen –
 insbesondere gesetzliche Aufbewahrungsfristen – bleiben unberührt.
 
-Quelle: [https://www.e-recht24.de)(https://www.e-recht24.de)
+Quelle: [https://www.e-recht24.de](https://www.e-recht24.de)
