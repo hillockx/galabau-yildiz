@@ -32,6 +32,7 @@ Die folgenden Hinweise geben einen einfachen Überblick darüber, was mit Ihren 
 passiert, wenn Sie diese Website besuchen. Personenbezogene Daten sind alle Daten, mit denen Sie
 persönlich identifiziert werden können. Ausführliche Informationen zum Thema Datenschutz entnehmen
 Sie unserer unter diesem Text aufgeführten Datenschutzerklärung.
+
 Datenerfassung auf dieser Website
 Wer ist verantwortlich für die Datenerfassung auf dieser Website?
 Die Datenverarbeitung auf dieser Website erfolgt durch den Websitebetreiber. Dessen Kontaktdaten
