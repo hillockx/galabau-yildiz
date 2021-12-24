@@ -82,6 +82,7 @@ Wenn Sie diese Website benutzen, werden verschiedene personenbezogene Daten erho
 Personenbezogene Daten sind Daten, mit denen Sie persönlich identifiziert werden können. Die vorliegende
 Datenschutzerklärung erläutert, welche Daten wir erheben und wofür wir sie nutzen. Sie erläutert auch, wie
 und zu welchem Zweck das geschieht.
+
 Wir weisen darauf hin, dass die Datenübertragung im Internet (z. B. bei der Kommunikation per E-Mail)
 Sicherheitslücken aufweisen kann. Ein lückenloser Schutz der Daten vor dem Zugriff durch Dritte ist nicht
 möglich
