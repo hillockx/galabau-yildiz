@@ -3,7 +3,7 @@ title: Impressum
 subtitle: und Datenschutz
 
 seo:
-  title: ''
+  title: 'Impressum'
   description: ''
   robots: []
   extra: []
