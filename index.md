@@ -1,5 +1,5 @@
 ---
-title: 'Start'
+title: 'Garten- und Landschaftsbau Yildiz'
 hide_title: true
 sections:
   - type: hero_section
