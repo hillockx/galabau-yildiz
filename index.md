@@ -1,5 +1,5 @@
 ---
-title: Start
+title: 'Start'
 hide_title: true
 sections:
   - type: hero_section
