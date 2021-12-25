@@ -49,7 +49,7 @@ sections:
     section_id: cta
     title: Let’s Work Together!
     content: >-
-      Schreiben Sie uns auf [info@yildiz-gartenbau.de](mailto:info@yildiz-gartenbau.d) oder erzählen Sie uns mehr über Ihr Projekt unten:
+      Schreiben Sie uns auf [info@yildiz-gartenbau.de](mailto:info@yildiz-gartenbau.de) oder erzählen Sie uns mehr über Ihr Projekt unten:
     actions:
       - label: Kontaktieren!
         url: /contact
