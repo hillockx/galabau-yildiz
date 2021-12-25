@@ -1,4 +1,6 @@
 title: 'Garten- und Landschaftbau Yildiz'
+seo: 
+  title: 'Garten- und Landschaftbau Yildiz'
 baseurl: /
 permalink: '/:title/'
 plugins:
