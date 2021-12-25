@@ -1,5 +1,5 @@
 ---
-title: Über uns
+title: 'Über uns'
 hide_title: false
 sections:
   - type: content_section
