@@ -1,5 +1,5 @@
 ---
-title: 'Garten- und Landschaftsbau Yildiz'
+title: Start
 hide_title: true
 sections:
   - type: hero_section
@@ -58,7 +58,7 @@ sections:
     image_alt: Illustration
     bg_color: light
 seo:
-  title: Garten- und Landschaftsbau Yildiz
+  title: Award Winning Agency Based in San Francisco
   description: >-
     Leidenschaft für Gärten und Landschaften sind unser Markenzeichen. Und deshalb sind unsere Ansprüche mindestens genau so hoch wie Ihre.
   extra:
@@ -66,18 +66,20 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Garten- und Landschaftsbau Yildiz
+      value: Award Winning Agency Based in San Francisco
       keyName: property
     - name: 'og:description'
       value: >-
-Leidenschaft für Gärten und Landschaften sind unser Markenzeichen. Und deshalb sind unsere Ansprüche mindestens genau so hoch wie Ihre.
+        We are a brand and design practice. We work closely with you, your team
+        to deliver inspiring work, which enables your organization to grow.
       keyName: property
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: Garten- und Landschaftsbau Yildiz
+      value: Award Winning Agency Based in San Francisco
     - name: 'twitter:description'
       value: >-
-       Leidenschaft für Gärten und Landschaften sind unser Markenzeichen. Und deshalb sind unsere Ansprüche mindestens genau so hoch wie Ihre.
+        We are a brand and design practice. We work closely with you, your team
+        to deliver inspiring work, which enables your organization to grow.
 layout: advanced
 ---
