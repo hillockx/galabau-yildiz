@@ -1,5 +1,5 @@
 ---
-title: Impressum
+title: 'Impressum'
 subtitle: und Datenschutz
 
 seo:
