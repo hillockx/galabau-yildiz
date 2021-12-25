@@ -58,7 +58,7 @@ sections:
     image_alt: Illustration
     bg_color: light
 seo:
-  title: Award Winning Agency Based in San Francisco
+  title: Garten- und Landschaftsbau Yildiz
   description: >-
     Leidenschaft für Gärten und Landschaften sind unser Markenzeichen. Und deshalb sind unsere Ansprüche mindestens genau so hoch wie Ihre.
   extra:
