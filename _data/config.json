@@ -1,12 +1,12 @@
 {
-    "title": "Stackbit Agency Theme",
+    "title": "Garten- und Landschaftsbau Yildiz",
     "color_scheme": "light",
     "accent_color": "green",
     "base_font": "fraunces",
     "header": {
         "title": "Agency",
-        "logo": "images/logo.svg",
-        "logo_alt": "Agency logo",
+        "logo": "images/gala-logo.png",
+        "logo_alt": "Gala logo",
         "has_nav": true,
         "nav_links": [
             {
@@ -71,5 +71,5 @@
             }
         ]
     },
-    "domain": "https://galabau-yildiz-01590.netlify.app"
+    "domain": "https://galabau-yildiz.netlify.app"
 }
