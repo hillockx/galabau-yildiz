@@ -39,37 +39,6 @@
     },
     "footer": {
         "content": "Garten- und Landschaftsbau Yildiz  |  Weite Straße 162  |  89150 Laichingen  |  Tel. 0173 8387496 ",
-        "has_social": true,
-        "social_links": [
-            {
-                "label": "Twitter",
-                "url": "https://twitter.com/",
-                "style": "icon",
-                "icon": "twitter",
-                "new_window": true
-            },
-            {
-                "label": "Instagram",
-                "url": "https://www.instagram.com/",
-                "style": "icon",
-                "icon": "instagram",
-                "new_window": true
-            },
-            {
-                "label": "Dribbble",
-                "url": "https://dribbble.com/",
-                "style": "icon",
-                "icon": "dribbble",
-                "new_window": true
-            },
-            {
-                "label": "LinkedIn",
-                "url": "https://www.linkedin.com/",
-                "style": "icon",
-                "icon": "linkedin",
-                "new_window": true
-            }
-        ]
     },
     "domain": "https://galabau-yildiz.netlify.app"
 }
